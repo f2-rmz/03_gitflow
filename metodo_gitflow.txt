@@ -1,0 +1,2 @@
+GitFlow consiste de uma estratégia criada para agilizar processos colaborativos entre diversos membros de uma equipe de desenvolvimento de sistemas.
+
